@@ -1,0 +1,19 @@
+/*--------------------------------------------------------------
+Images - reset 
+--------------------------------------------------------------*/
+
+img {
+        padding: 0;
+        margin: 0;
+        height: auto;
+      }
+@media screen and (min-width: 600px) {
+	.img {
+        background-image: url(/images/Mediumimage.jpg);
+		
+        max-height: 500px;
+	}
+}
+}  
+
+.button
