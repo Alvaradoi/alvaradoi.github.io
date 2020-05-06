@@ -1,0 +1,24 @@
+.wrapper{
+    width: 1170px;
+    margin: 2% auto;
+    margin-top: 8%;
+}
+
+.gallery{
+    width: 50%;
+    height: auto;
+    float: center;
+    box-shadow: 5px 5px 15px #000;
+    position: relative;
+    display: block;
+    padding: 15px;
+    text-align: center;
+    margin: 0 17px;
+    margin-bottom: 15%;
+    object-position: center;
+}
+
+.gallery img{
+    width: 100%;
+    border-radius: 8px;
+}
