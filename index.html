@@ -9,6 +9,9 @@
     <meta name="description" content="Portfolio"/>
 
     <link rel="stylesheet" href="style.css" type="text/css" media="all">
+    <script src="JS/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.4/gsap.min.js"></script>
+
 </head>
 
 <body>
@@ -40,9 +43,9 @@
             <section class="boxes">
                 <p>
                     <picture>
-                        <source srcset="images/Largeimage.jpg" media="(min-width: 1000px)">
-                        <source srcset="images/Mediumimage.jpg" media="(min-width: 600px)">
-                        <img src="images/Smallimage.jpg">
+                        <source srcset="images/Largeimage.jpg" media="(min-width: 1000px)" id="test">
+                        <source srcset="images/Mediumimage.jpg" media="(min-width: 600px)" id="test">
+                        <img src="images/Smallimage.jpg" id="test">
                                 
                     </picture>
                 </p>
@@ -51,6 +54,11 @@
             
             </section>
         </main><!-- .main-area -->
+        <script>
+                $(document).ready(function() {
+                             gsap.from("#test", {duration: 1.5, x:50, opacity: 0, scale: 0.5});         
+                        });
+                </script>
     </div><!-- .content -->
 
     <footer class="footer-area">

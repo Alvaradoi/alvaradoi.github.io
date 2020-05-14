@@ -1,0 +1,296 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"inlin",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/isaac/Documents/BIT 175/Architecting Design/core_template/projects.html",
+		"/C/Users/isaac/Documents/BIT 175/Architecting Design/core_template/contact.html",
+		"/C/Users/isaac/Documents/BIT 175/Architecting Design/Exercise Files/02/02_03/index.html",
+		"/C/Users/isaac/Documents/BIT 175/Architecting Design/core_template/index.html",
+		"/C/Users/isaac/Documents/BIT142/assignment01/Console_StarterProject/README_Student.html",
+		"/C/Program Files/Unity/Editor/Data/Documentation/en/ScriptReference/MonoBehaviour.html",
+		"/C/Users/isaac/Documents/BIT 112/index.html",
+		"/C/Users/isaac/Documents/BIT116/Starter_Temp.html",
+		"/C/Users/isaac/Documents/ENGR 240/Ialvarado_ENGR_Assignment2_almost_done",
+		"/C/Users/isaac/Documents/ENGR 240/using System;.cs",
+		"/C/Users/isaac/Documents/BIT116/Homework03/advising_template.html",
+		"/C/Users/isaac/Documents/BIT116/final_exam_Review/radio_buttons_demo.html",
+		"/C/Users/isaac/Documents/BIT116/Week11/Homework02/TellMeMyGrade.html",
+		"/C/Users/isaac/Documents/BIT116/Homework02V1.4/TellMeMyGrade.html",
+		"/C/Users/isaac/Documents/BIT116/Homework02V1.4/script.js",
+		"/C/Users/isaac/Documents/BIT116/Homework02V1.4/styles.css",
+		"/C/Users/isaac/Documents/BIT116/Homework01_RevisionV1.2/script.js",
+		"/C/Users/isaac/Documents/BIT116/Homework01_RevisionV1.2/Chatterbot_Template.html",
+		"/C/Users/isaac/Documents/BIT116/Week11/Homework02/script.js",
+		"/C/Users/isaac/Documents/BIT116/Homework01_Revision/script.js",
+		"/C/Users/isaac/Documents/BIT116/Template_W_CSS_JQuery_Bootstrap.html",
+		"/C/Users/isaac/Documents/BIT116/Homework02/TellMeMyGrade.html",
+		"/C/Users/isaac/Documents/BIT116/Week05/jquery05.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_forms_scripting/styles/date_time.js",
+		"/C/Users/isaac/Dropbox/BIT116/Week05/checking_for_numbers.html",
+		"/C/Users/isaac/Dropbox/BIT116/Week05/BookFees.html",
+		"/C/Users/isaac/Documents/BIT116/HomeWork01/Chatterbot_Template.html",
+		"/C/Users/isaac/Documents/BIT116/Week06/checking_for_numbers.html",
+		"/C/Users/isaac/Documents/BIT116/Bootstrap and Jquery CDN.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_forms_scripting/contactus.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_forms_scripting/index.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_forms_scripting/styles/effects.css",
+		"/C/Users/isaac/Documents/BIT116/Week01/Lecture01 ICE/test.html",
+		"/C/Users/isaac/Documents/BIT116/Week01/Lecture01 ICE/ice01_html01.html",
+		"/C/Users/isaac/Documents/BIT 112/project/index.html",
+		"/C/Users/isaac/Documents/BIT 112/project/styles/format.css",
+		"/C/Users/isaac/Documents/BIT 112/project/styles/layout.css",
+		"/C/Users/isaac/Documents/BIT 112/Theme/css/main.css",
+		"/C/Users/isaac/Documents/BIT 112/project/layout73/index.html",
+		"/C/Users/isaac/Documents/BIT 112/styles/layout.css",
+		"/C/Users/isaac/Documents/BIT 112/styles/format.css",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_rollover/faqs.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_rollover/index.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_rollover/legallinks.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_rollover/offices.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_rollover/practice.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_rollover/contactus.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_rollover/attorneys.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_rollover/template.html",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_rollover/styles/effects.css",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_rollover/styles/format.css",
+		"/C/Users/isaac/Documents/BIT 112/week06/css_rollover/styles/layout.css",
+		"/C/Users/isaac/Documents/BIT 112/week03/website_style_guide.html",
+		"/C/Users/isaac/Documents/BIT 112/styles/layout",
+		"/C/Users/isaac/Documents/BIT 112/styles/format",
+		"/C/Users/isaac/Documents/BIT 112/week04/prz_formatting/index.html",
+		"/C/Users/isaac/Documents/BIT 112/week04/prz_formatting/styles/layout",
+		"/C/Users/isaac/Documents/BIT 112/week04/prz_formatting/styles/Layout",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/index.html",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/faqs.html",
+		"/C/Users/isaac/Documents/BIT 112/week01/index.html",
+		"/C/Users/isaac/Documents/BIT 112/week02/css_lab_external.html",
+		"/C/Users/isaac/Documents/BIT 112/week02/Typography.css",
+		"/C/Users/isaac/Documents/BIT 112/week02/Portfolio Style Guide.html",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/offices.html",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/attorneys.html",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/contactus.html",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/legallinks.html",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/practice.html",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/practice.txt",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/offices.txt",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/faqs.txt",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/legallinks.txt",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/contactus.txt",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/attorneys.txt",
+		"/C/Users/isaac/Documents/BIT 112/week03/prz_formatting/index.txt",
+		"/C/Users/isaac/Documents/BIT 112/week01/html_lab/summer.html",
+		"/C/Users/isaac/Documents/BIT 112/week01/html_lab/spring.html",
+		"/C/Users/isaac/Documents/BIT 112/week01/html_lab/rain.html",
+		"/C/Users/isaac/Documents/BIT 112/week01/html_lab/sunshine.html",
+		"/C/Users/isaac/Documents/BIT 112/week01/html_lab/blue/moon.html",
+		"/C/Users/isaac/Documents/BIT 112/week01/html_lab/blue/stars.html",
+		"/C/Users/isaac/Documents/BIT 112/week01/html_lab/red/night.html",
+		"/C/Users/isaac/Documents/BIT 112/week01/html_lab/red/day.html",
+		"/C/Users/isaac/Documents/BIT 112/html_lab/red/night.html",
+		"/C/Users/isaac/Documents/BIT 112/html_lab/Red/day.html",
+		"/C/Users/isaac/Documents/BIT 112/html_lab/Blue/stars.html",
+		"/C/Users/isaac/Documents/BIT 112/html_lab/Blue/moon.html",
+		"/C/Users/isaac/Documents/BIT 112/html_lab/sunshine.html",
+		"/C/Users/isaac/Documents/BIT 112/html_lab/summer.html",
+		"/C/Users/isaac/Documents/BIT 112/html_lab/simple.html",
+		"/C/Users/isaac/Documents/BIT 112/html_lab/rain.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
