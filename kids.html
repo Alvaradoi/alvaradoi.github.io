@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Isaac Portfolio</title>
+    <meta name="description" content="Portfolio"/>
+
+    <link rel="stylesheet" href="style.css" type="text/css" media="all">
+    <script src="JS/jquery.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.4/gsap.min.js"></script>
+
+</head>
+
+<body class="bodyK">
+
+    <header class="masthead">
+        <div class="site-branding">
+            <h1 class="site-title"><a href="index.html">AI</a></h1>
+        </div><!-- .site-title -->
+        <nav id="site-navigation" class="main-navigation" role="navigation">
+            <!-- Mobile menu toggle button -->
+            <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
+            <!-- Main Menu -->
+            <div class="menu-main-menu-container">
+                <ul id="primary-menu" class="nav-menu">
+                    <li class="menu-item current-menu-item"><a href="index.html">Home</a></li>
+                    <li class="menu-item current-menu-item"><a href="projects.html">Projects</a> 
+                    </li>
+                    <li class="menu-item current-menu-item"><a href="gallery.html">Gallery</a></li>
+                    <li class="menu-item current-menu-item"><a href="kids.html">Kids</a></li>
+                    <li class="menu-item current-menu-item"><a href="contact.html">Contact</a></li>
+                    
+            </ul></div>
+        </nav>
+    </header><!-- .masthead -->
+
+    <div class="content">
+        <main class="main-area">
+            <div class="content-container">
+                <div class="imgKids">
+                    <img src="images/adorableBrain.png" id="imgTest">
+                </div>
+                <div class="overlay">
+                    
+                </div>
+                <div class="content-Kids">
+                    <h3>Welcome to the kids learning center!</h3>
+                    <p>In this section, we'll breakdown machine learning and artificial intelligence to bite
+                        size pieces for your little one.
+                    </p>
+                </div>
+                <br>
+                <br>
+                <div class="content-Kids">
+                    <h3>What is a Neural Network? </h3>
+                    <p>
+                        It’s a technique for building a computer program that learns from data.
+                         It is based very loosely on how we think the human brain works.
+                         First, a collection of software “neurons” are created and connected together,
+                         allowing them to send messages to each other. Next, the network is asked to solve a problem,
+                         which it attempts to do over and over, each time strengthening the connections
+                         that lead to success and diminishing those that lead to failure.
+                    </p>
+                </div>
+            </div>
+            <br>
+            <div class="content-container">
+                <div class="imgKids">
+                    <img src="images/robotML.jpg" id="imgTest">
+                </div>
+                <br>
+                <br>
+                <div class="content-Kids">
+                    <h3>MEET ROSIE THE NEURAL ROBOT. SHE HELPS YOUNGSTERS LEARN AND PRACTICE NEURAL NETWORKS</h3>
+                    
+                </div>
+
+            </div>
+           
+        </main><!-- .main-area -->
+        <script>
+                $(document).ready(function() {
+                             gsap.from("#test", {duration: 1.5, x:50, opacity: 0, scale: 0.5});         
+                        });
+                </script>
+    </div><!-- .content -->
+
+    <footer class="footer-area">
+        <div class="widgets">
+            
+            <aside class="widget">
+                <h3 class="widget-title">Image Credits</h3>
+                <p>Images used in site are from Pinterest <a href="https://i.pinimg.com/564x/bb/ab/51/bbab51943a0e22dde43137e058a05c01.jpg" target="_blank">site</a>.</p>
+            </aside><!-- .widget -->
+            
+        </div><!-- .widgets -->
+    </footer>
+
+    
+</body>
+
+</html>
